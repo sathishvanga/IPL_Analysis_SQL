@@ -10,8 +10,8 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 - [Maximum wins by Mumbai Indians in 2011](#three)
 - [What is the percentage of getting bat and field in feature 'toss_descision'?](#four)
 - [In which years where taking batting second have won more number of matches?](#five)
-- [How many customers having teens in their family?](#six)
-- [In which year most custoemr enrolled in the compnay?](#seven)
+- [In 2019 which batsman scored highest number of runs by hitting 6's and 4's?](#six)
+- [Most number of wickets taken by a bowler](#seven)
 - [How many customers purchsed today?](#eight)
 - [In which product customer spend most of his money?](#nine)
 - [What is the ratio of money spend on each type of product?](#ten)
@@ -41,14 +41,13 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 - ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/9ae8a434-9f52-4e2f-a7ba-ff85d35e5140)
 
 
+### <a id='six'> In 2019 which batsman scored highest number of runs by hitting 6's and 4's?</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/c17f9a22-7030-473d-b3b8-3cea8acf3eee)
 
 
+### <a id='seven'> Most number of wickets taken by a bowler</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/de627fdd-b5a3-43ca-9119-f70cec47500b)
 
-### <a id='six'> How many customers having teens in their family?</a>
-- ![6](https://user-images.githubusercontent.com/90683408/154483188-049a3da9-3579-4862-b9e6-22dd3f25cbf4.png)
-
-### <a id='seven'> In which year most customer enrolled in the compnay?</a>
-- ![7](https://user-images.githubusercontent.com/90683408/154483270-56ce3808-247c-473e-a56a-00a6e5c2cbf9.png)
 
 ### <a id='eight'> How many customers purchsed today?</a>
 - ![8](https://user-images.githubusercontent.com/90683408/154483296-3676bc26-ad5f-48d6-b64a-b1288ea3fd87.png)
