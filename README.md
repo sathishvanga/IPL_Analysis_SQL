@@ -22,7 +22,8 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 
 
 ### Which City  hosted most number of seasons according to the data? <a id='one'></a>
-- ![1](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/5cece82b-5526-4dfa-b17d-b4eba8c0042e)
+![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/1fc42169-414e-4a69-9b1c-a8e80d708542)
+
 
 ### <a id='two'>Most common education level of customers?</a>
 - ![2](https://user-images.githubusercontent.com/90683408/154477146-67f30787-bd28-4483-be20-b99183739ccd.png)
