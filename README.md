@@ -6,10 +6,10 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 
 # Questions
 - [Which City hosted most number of seasons according to the data?](#one)
-- [Most common education level of customers?](#two)
-- [What is the percentage of marital status of the customers?](#three)
-- [What is the average household income of the customer?](#four)
-- [How many customers having kids in their family?](#five)
+- [Which year has the most number of matches played?](#two)
+- [Maximum wins by Mumbai Indians in 2011](#three)
+- [What is the percentage of getting bat and field in feature 'toss_descision'?](#four)
+- [In which years where taking batting second have won more number of matches?](#five)
 - [How many customers having teens in their family?](#six)
 - [In which year most custoemr enrolled in the compnay?](#seven)
 - [How many customers purchsed today?](#eight)
@@ -21,21 +21,25 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 - [From which channel customer purchased most product](#fifteen)
 
 
-### Which City  hosted most number of seasons according to the data? <a id='one'></a>
+### Which City hosted most number of seasons according to the data? <a id='one'></a>
 - ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/1fc42169-414e-4a69-9b1c-a8e80d708542)
 
 
-### <a id='two'>Most common education level of customers?</a>
-- ![2](https://user-images.githubusercontent.com/90683408/154477146-67f30787-bd28-4483-be20-b99183739ccd.png)
+### <a id='two'>Which year has the most number of matches played?</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/a67b03b0-0a3a-4238-80ee-636ee9cafc31)
 
-### <a id='three'> What is the percentage of marital status of the customers?</a>
-- ![3](https://user-images.githubusercontent.com/90683408/154478750-a1c02213-07e0-4d3d-bfe1-e71a8782d1df.png)
 
-### <a id='four'> What is the average household income of the customer?</a>
-- ![4](https://user-images.githubusercontent.com/90683408/154483109-48b5917b-12fd-41c8-beab-d6399a21e84c.png)
+### <a id='three'> Maximum wins by Mumbai Indians in 2011</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/510ce2ea-2ba1-4865-9b72-af33390f5899)
 
-### <a id='five'> How many customers having kids in their family?</a>
-- ![5](https://user-images.githubusercontent.com/90683408/154483151-636af7ee-39bc-45f8-ad7b-52335b399bdd.png)
+
+### <a id='four'> What is the percentage of getting bat and field in feature 'toss_descision'?</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/32237e1d-7d96-40f1-8b20-5f4f3bea92bf)
+
+
+### <a id='five'> In which years where taking batting second have won more number of matches?</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/0758a48c-a8ad-4423-839e-d2be36c3f9ca)
+
 
 ### <a id='six'> How many customers having teens in their family?</a>
 - ![6](https://user-images.githubusercontent.com/90683408/154483188-049a3da9-3579-4862-b9e6-22dd3f25cbf4.png)
