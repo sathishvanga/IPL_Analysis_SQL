@@ -38,7 +38,8 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 
 
 ### <a id='five'> In which years where taking batting second have won more number of matches?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/0758a48c-a8ad-4423-839e-d2be36c3f9ca)
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/bb532979-a39e-41df-a080-5c105322d0b4)
+
 
 
 ### <a id='six'> How many customers having teens in their family?</a>
