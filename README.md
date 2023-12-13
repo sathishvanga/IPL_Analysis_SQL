@@ -4,6 +4,12 @@
 The aim of the IPL (Indian Premier League) analysis using SQL is to gain insights into the performance and trends within the cricket league. 
 By leveraging SQL queries on the available IPL database, we aim to extract valuable information that can help in understanding team performances, player statistics, and overall patterns over different seasons.
 
+## 🚀 Major Takeaways:
+
+- Uncover team strategies and player contributions 🧠
+- Analyze close matches and winning streaks 🔍
+- Evaluate powerplay and death overs dynamics ⌛
+
 # Questions
 - [Which City hosted most number of seasons according to the data?](#one)
 - [Which year has the most number of matches played?](#two)
