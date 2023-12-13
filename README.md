@@ -12,13 +12,14 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 - [In which years where taking batting second have won more number of matches?](#five)
 - [In 2019 which batsman scored highest number of runs by hitting 6's and 4's?](#six)
 - [Most number of wickets taken by a bowler](#seven)
-- [How many customers purchsed today?](#eight)
-- [In which product customer spend most of his money?](#nine)
-- [What is the ratio of money spend on each type of product?](#ten)
-- [what is the average money of spent on each product?](#eleven)
-- [Which offer campaign got the most and lest customers?](#twelve)
-- [Which customer took the most of the desls in discounts?](#fourteen)
-- [From which channel customer purchased most product](#fifteen)
+- [What is the strike rate of Kohli in 2016](#eight)
+- [Bowlers with maximum number of extras](#nine)
+- [Which venue has hosted most number of IPL matches?](#ten)
+- [In 2017 when sunrisers hyderabad clashed against Royal Challengers Bangalore which team player won player of the match?](#eleven)
+- [Across seasons who are the top three batsman's with most number of run out?](#twelve)
+- [What are the total runs scored by V Kohli when the bowler was JJ Burmah?](#thirteen)
+- [Across all seasons which player was dismissed the maximum number of times via caught and bowled](#fourteen)
+- [which player has the highest hard-hitting ability?](#fifteen)
 
 
 ### Which City hosted most number of seasons according to the data? <a id='one'></a>
@@ -49,23 +50,28 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 - ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/de627fdd-b5a3-43ca-9119-f70cec47500b)
 
 
-### <a id='eight'> How many customers purchsed today?</a>
-- ![8](https://user-images.githubusercontent.com/90683408/154483296-3676bc26-ad5f-48d6-b64a-b1288ea3fd87.png)
+### <a id='eight'> What is the strike rate of Kohli in 2016</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/28da4098-7893-4c4c-85e9-b2f28b7179c7)
 
-### <a id='nine'> In which product customer spend most of his money?</a>
-- ![9](https://user-images.githubusercontent.com/90683408/154483320-33ab8287-8f88-46f6-bbe1-8e57351939aa.png)
+### <a id='nine'> Bowlers with maximum number of extras</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/d85dd9ff-67b7-45a0-9465-cca8f57c454b)
 
-### <a id='ten'> What is the ratio of money spend on each type of product?</a>
-- ![9](https://user-images.githubusercontent.com/90683408/154483482-0704fc0c-076f-4f8c-a0cf-dfc836940f09.png)
+### <a id='ten'> Which venue has hosted most number of IPL matches?</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/6f5378ad-f637-4bf8-b03a-8406f0f3eee5)
 
-### <a id='eleven'> What is the average money of spent on each product?</a>
-- ![10](https://user-images.githubusercontent.com/90683408/154483533-09aa6b33-3f32-4869-a200-a97863704388.png)
+### <a id='eleven'> In 2017 when sunrisers hyderabad clashed against Royal Challengers Bangalore which team player won player of the match?</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/07be7458-98cf-4ec0-90bc-e7385ca3cc21)
 
-### <a id='twelve'> Which offer campaign got the most and least customers?</a>
-- ![11](https://user-images.githubusercontent.com/90683408/154483568-4ded6a86-1037-4b7f-9012-b1b281777e3a.png)
 
-### <a id='fourteen'> Which customer took the most of the deals in discounts?</a>
-- ![12](https://user-images.githubusercontent.com/90683408/154483624-926a6a4b-841a-4561-9413-a293f784caeb.png)
+### <a id='twelve'> Across seasons who are the top three batsman's with most number of run out?</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/2d3897db-549a-4866-811a-ef5495c4604c)
 
-### <a id='fifteen'> From which channel customer purchased most products </a> 
-- ![13](https://user-images.githubusercontent.com/90683408/154489366-3545d901-78e0-4560-8505-07527927c7cd.png)
+### <a id='thirteen'> What are the total runs scored by V Kohli when the bowler was JJ Burmah?</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/ca32a382-882b-4aee-93dd-305d948d62e0)
+
+### <a id='fourteen'> Across all seasons which player was dismissed the maximum number of times via caught and bowled</a>
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/4023a770-ba0b-4845-9e28-75c14541fcf3)
+
+
+### <a id='fifteen'> which player has the highest hard-hitting ability? </a> 
+- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/78add728-a216-4fe8-a473-7469213e8773)
