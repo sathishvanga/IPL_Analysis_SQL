@@ -19,7 +19,7 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 - [Across seasons who are the top three batsman's with most number of run out?](#twelve)
 - [What are the total runs scored by V Kohli when the bowler was JJ Burmah?](#thirteen)
 - [Across all seasons which player was dismissed the maximum number of times via caught and bowled](#fourteen)
-- [which player has the highest hard-hitting ability?](#fifteen)
+- [Which player has the highest hard-hitting ability?](#fifteen)
 
 
 ### Which City hosted most number of seasons according to the data? <a id='one'></a>
@@ -73,5 +73,5 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 - ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/4023a770-ba0b-4845-9e28-75c14541fcf3)
 
 
-### <a id='fifteen'> which player has the highest hard-hitting ability? </a> 
+### <a id='fifteen'> Which player has the highest hard-hitting ability? </a> 
 - ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/78add728-a216-4fe8-a473-7469213e8773)
