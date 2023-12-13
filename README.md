@@ -10,6 +10,13 @@ By leveraging SQL queries on the available IPL database, we aim to extract valua
 - Analyze close matches and winning streaks 🔍
 - Evaluate powerplay and death overs dynamics ⌛
 
+## 🔍 Explore Key Insights:
+
+- Team performances across seasons 🏆
+- Player statistics: Runs, wickets, averages 🏏
+- Seasonal trends and winning patterns 📈
+- Home ground advantage exploration 🏠
+- Economy rates, strike rates, and player impact 📉
 # Questions
 - [Which City hosted most number of seasons according to the data?](#one)
 - [Which year has the most number of matches played?](#two)
